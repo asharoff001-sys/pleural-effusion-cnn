@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+  No Finding       0.95      0.81      0.88      6241
+    Effusion       0.49      0.82      0.61      1400
+
+    accuracy                           0.81      7641
+   macro avg       0.72      0.81      0.74      7641
+weighted avg       0.87      0.81      0.83      7641
